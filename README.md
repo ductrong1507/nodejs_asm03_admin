@@ -1,3 +1,9 @@
+# Website thương mại điện tử Apple_Admin
+
+**GitHub:** https://github.com/ductrong1507/nodejs_asm03_admin
+
+**Deloy:** _Coming soon..._
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

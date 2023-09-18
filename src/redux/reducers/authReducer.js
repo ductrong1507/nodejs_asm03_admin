@@ -24,7 +24,7 @@ const authReducer = createSlice({
       );
 
       //lưu vào cookie
-      Cookies.set("accessTokenAdmin", payload.accessToken, { expires: 7 });
+      Cookies.set("accessTokenAdmin", payload.accessToken, { expires: 1 });
 
       // set lại reducer Auth
       state.isLogin = true;
