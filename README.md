@@ -2,7 +2,7 @@
 
 **GitHub:** https://github.com/ductrong1507/nodejs_asm03_admin
 
-**Deloy:** _Coming soon..._
+**Deloy:** https://funix-nodejs-asm03-admin.web.app/
 
 # Getting Started with Create React App
 
